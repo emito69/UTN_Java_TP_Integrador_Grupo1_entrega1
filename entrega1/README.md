@@ -7,4 +7,4 @@ Integrantes:
    
    EJECUTAR COMO:
    
-	java -jar ruta_absoluta_a_resultados.csv ruta_absoluta_a_pronosticos.csv
+	java -jar original-entrega1-0.0.1-SNAPSHOT.jar ruta_absoluta_a_resultados.csv ruta_absoluta_a_pronostico.csv
